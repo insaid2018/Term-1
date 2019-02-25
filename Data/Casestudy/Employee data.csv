@@ -1,0 +1,1471 @@
+Gender,Employee Number,Skills,Total Working Years,Work Life Balance,Performance Rating,Years At Company,MonthlyIncome(June-2018),MonthlyIncome(June-2017)
+Female,1,Sales,8,1,3,6,5993,5893
+Female,5,Research,8,3,3,8,5130,4000
+Female,10,Content Writing,12,2,4,1,2090,3050
+Female,15,Content Writing,10,3,3,9,2909,5909
+Female,20,Sales,10,3,2,10,3468,2468
+Female,23,Workforce Management,31,3,2,25,3068,2068
+Female,26,Sales,5,2,2,4,2670,2670
+Female,28,Delivery,13,3,2,12,2693,2693
+Female,32,Workforce Management,26,2,3,14,9526,9526
+Female,33,Research,10,3,4,10,5237,5237
+Female,36,Employee relations,24,3,3,22,2426,2426
+Female,38,Workforce Management,22,2,3,2,4193,4193
+Female,46,Research,6,2,3,5,2911,2911
+Female,49,Sales,2,3,3,2,2661,2661
+Female,51,Research,6,4,3,1,2028,3000
+Female,52,Sales,10,3,3,5,9980,9080
+Female,54,Content Writing,1,3,3,1,3298,3298
+Female,57,Content Writing,12,3,4,12,2935,2935
+Female,58,Delivery,23,3,3,22,15427,15427
+Female,68,Sales,9,2,4,4,3944,3944
+Female,72,Sales,5,2,3,2,4011,4011
+Female,73,Delivery,15,3,3,15,3407,3407
+Female,75,Content Writing,4,3,3,2,11994,11994
+Female,79,Content Writing,10,3,3,10,1232,1232
+Female,80,Delivery,29,2,3,27,2960,2960
+Female,81,Sales,28,2,3,21,19094,19094
+Female,83,Employee relations,17,3,3,17,3919,3919
+Female,84,Workforce Management,21,3,3,5,6825,6825
+Female,91,Sales,20,2,3,4,10248,10248
+Female,97,Content Writing,5,3,3,1,18947,18947
+Female,98,Sales,11,3,4,11,2496,2496
+Female,107,Research,17,3,3,13,6465,6465
+Female,121,Sales,11,2,3,11,2206,2206
+Female,126,Delivery,16,1,3,4,2086,2086
+Female,128,Sales,4,2,4,3,2293,2293
+Female,137,Content Writing,1,3,3,1,2645,2645
+Female,138,Research,16,3,3,16,2683,2683
+Female,140,Workforce Management,30,3,4,3,2014,2014
+Female,141,Delivery,28,2,3,8,3419,3419
+Female,144,Content Writing,1,3,3,0,5376,5376
+Female,145,Employee relations,23,2,4,13,1951,1951
+Female,148,Workforce Management,23,3,3,5,2341,2341
+Female,151,Research,12,3,3,1,2293,2293
+Female,153,Workforce Management,14,3,3,11,8726,8726
+Female,154,Sales,10,3,3,9,4011,4011
+Female,155,Content Writing,7,3,4,1,19545,19545
+Female,161,Research,7,3,3,5,4568,4568
+Female,164,Research,5,2,3,5,3022,3022
+Female,165,Employee relations,40,2,3,40,5772,5772
+Female,170,Sales,16,2,3,15,2269,2269
+Female,171,Research,18,3,3,3,5381,5381
+Female,174,Sales,16,3,3,2,3441,3441
+Female,175,Sales,4,3,3,2,5454,5454
+Female,177,Performance Management,8,3,4,8,9884,9884
+Female,182,Sales,17,4,3,15,4157,4157
+Female,190,Content Writing,10,4,4,5,13458,13458
+Female,193,Research,19,3,4,3,9069,9069
+Female,194,Research,5,2,3,5,4014,4014
+Female,197,Research,8,3,3,3,5915,5915
+Female,201,Content Writing,1,3,3,1,5993,5993
+Female,202,Research,20,3,3,20,6162,6162
+Female,207,Sales,9,3,3,9,2406,2406
+Female,214,Research,9,2,4,1,18740,18740
+Female,216,Sales,6,3,3,4,7637,7637
+Female,226,Workforce Management,21,3,3,5,10096,10096
+Female,228,Sales,12,3,3,10,14756,14756
+Female,230,Sales,12,4,4,8,6499,6499
+Female,235,Sales,1,4,4,0,9724,9724
+Female,240,Sales,9,4,3,5,2194,2194
+Female,241,Research,19,3,3,2,3388,3388
+Female,244,Sales,24,3,4,24,5473,5473
+Female,245,Content Writing,2,3,3,2,2703,2703
+Female,246,Research,7,3,4,4,2501,2501
+Female,247,Research,9,3,3,3,6220,6220
+Female,248,Sales,4,2,4,4,3038,3038
+Female,250,Sales,5,3,3,4,4424,4424
+Female,252,Research,8,3,3,8,4312,4312
+Female,253,Workforce Management,21,3,3,20,13245,13245
+Female,258,Employee relations,21,3,3,7,13664,13664
+Female,260,Research,7,2,3,7,5021,5021
+Female,269,Content Writing,10,3,3,6,5126,5126
+Female,270,Sales,11,3,3,5,2859,2859
+Female,283,Sales,10,2,4,10,10239,10239
+Male,286,Content Writing,8,3,3,8,5329,5329
+Male,293,Sales,7,3,3,7,4325,4325
+Male,297,Research,8,3,3,5,7260,7260
+Male,298,Workforce Management,16,3,3,1,2322,2322
+Male,299,Sales,9,2,3,6,2075,2075
+Male,302,Sales,23,3,3,19,4152,4152
+Male,303,Sales,16,3,3,6,9619,9619
+Male,305,Research,7,3,4,3,13503,13503
+Male,312,Sales,11,3,3,11,5441,5441
+Male,314,Sales,10,4,3,10,5209,5209
+Male,316,Content Writing,6,2,3,2,10673,10673
+Male,323,Workforce Management,32,2,3,7,5010,5010
+Male,327,Workforce Management,22,3,4,17,13549,13549
+Male,328,Content Writing,13,4,4,9,4999,4999
+Male,330,Sales,6,3,3,4,4221,4221
+Male,332,Content Writing,7,3,3,3,13872,13872
+Male,338,Research,2,2,3,2,2042,2042
+Male,340,Research,17,2,3,3,2073,2073
+Male,343,Employee relations,20,3,4,19,2956,2956
+Male,347,Research,10,3,3,3,2926,2926
+Male,350,Sales,5,3,3,4,4809,4809
+Male,351,Content Writing,10,3,3,9,5163,5163
+Male,363,Workforce Management,28,2,3,7,18844,18844
+Male,380,Delivery,15,3,3,5,18172,18172
+Female,381,Workforce Management,10,2,3,7,5744,5744
+Female,382,Sales,8,3,4,8,2889,2889
+Female,384,Sales,6,1,4,6,2871,2871
+Female,391,Research,17,3,3,17,7484,7484
+Female,395,Research,5,3,4,5,6074,6074
+Female,396,Delivery,22,3,3,3,17328,17328
+Female,399,Sales,2,2,3,2,2774,2774
+Female,404,Sales,23,4,2,20,4505,4505
+Female,411,Sales,0,3,2,0,7428,7428
+Female,419,Content Writing,11,3,2,9,11631,11631
+Female,421,Delivery,19,3,2,10,9738,9738
+Female,428,Workforce Management,12,3,2,10,2835,2835
+Female,430,Content Writing,9,3,2,8,16959,16959
+Female,431,Employee relations,25,3,2,7,2613,2613
+Female,434,Research,4,2,2,4,6146,6146
+Female,436,Sales,13,3,2,13,4963,4963
+Male,439,Research,10,2,3,7,19537,19537
+Male,441,Research,11,3,3,10,6172,6172
+Male,442,Sales,10,3,4,10,2368,2368
+Male,445,Sales,12,2,3,1,10312,10312
+Male,448,Content Writing,9,4,3,9,1675,1675
+Male,450,Research,20,2,3,4,2523,2523
+Male,451,Employee relations,10,2,3,1,6567,6567
+Male,456,Sales,10,3,3,10,4739,4739
+Male,458,Sales,8,3,1,8,9208,9208
+Male,462,Sales,11,2,1,11,4559,4559
+Male,463,Sales,7,3,1,7,8189,8189
+Male,468,Delivery,16,3,3,1,2942,2942
+Male,471,Content Writing,8,3,1,8,4941,4941
+Male,473,Workforce Management,15,1,4,0,10650,10650
+Male,475,Sales,4,4,3,2,5902,5902
+Male,478,Sales,3,3,3,3,8639,8639
+Male,479,Sales,7,3,3,1,6347,6347
+Male,483,Content Writing,10,3,3,7,4200,4200
+Male,485,Sales,1,3,3,1,3452,3452
+Male,486,Content Writing,17,3,4,5,4317,4317
+Male,487,Sales,7,4,3,1,2632,2632
+Male,494,Sales,1,3,3,1,4668,4668
+Male,500,Sales,18,2,3,7,3204,3204
+Male,501,Research,6,3,3,2,2720,2720
+Male,505,Workforce Management,30,3,3,5,17181,17181
+Male,507,Sales,5,4,3,5,2238,2238
+Male,511,Research,2,3,3,2,1483,1483
+Male,515,Content Writing,18,2,3,18,5605,5605
+Male,516,Sales,8,3,3,5,7295,7295
+Male,517,Content Writing,8,3,3,5,2306,2306
+Male,521,Content Writing,20,3,4,1,2348,2348
+Female,523,Sales,6,3,3,3,8998,8998
+Female,524,Sales,13,1,3,13,4319,4319
+Female,526,Employee relations,8,3,3,5,6132,6132
+Female,527,Sales,5,3,3,5,3346,3346
+Female,529,Research,15,3,3,13,10855,10855
+Female,532,Sales,36,2,3,7,2231,2231
+Female,533,Sales,6,3,3,5,2323,2323
+Female,546,Workforce Management,31,1,3,5,2024,2024
+Female,547,Research,19,3,3,5,2713,2713
+Female,548,Sales,11,3,4,5,9439,9439
+Female,549,Workforce Management,33,1,3,29,2566,2566
+Female,550,Sales,19,2,3,10,19926,19926
+Female,551,Employee relations,7,4,3,6,2451,2451
+Female,554,Sales,6,3,3,5,9419,9419
+Female,555,Sales,3,2,3,2,8686,8686
+Female,558,Workforce Management,21,3,3,20,3038,3038
+Female,560,Research,3,1,4,3,3058,3058
+Female,565,Research,6,4,3,2,2325,2325
+Female,567,Sales,10,3,3,9,2088,2088
+Female,571,Content Writing,12,2,3,11,3072,3072
+Female,573,Sales,22,4,3,18,5006,5006
+Female,574,Sales,20,3,3,5,4257,4257
+Female,578,Content Writing,19,3,3,1,2500,2500
+Female,580,Sales,15,3,3,3,1102,1102
+Female,590,Performance Management,11,3,3,3,10453,10453
+Female,595,Sales,14,3,3,9,2288,2288
+Female,597,Workforce Management,37,3,4,10,3929,3929
+Female,601,Sales,22,3,3,20,2311,2311
+Female,602,Content Writing,8,3,3,8,3140,3140
+Female,608,Performance Management,8,2,3,7,3690,3690
+Female,612,Delivery,10,3,3,6,4450,4450
+Female,616,Employee relations,10,3,3,8,2756,2756
+Female,620,Sales,5,3,3,5,19033,19033
+Female,623,Sales,12,4,3,6,18722,18722
+Female,624,Employee relations,28,2,3,2,9547,9547
+Female,625,Workforce Management,22,3,3,18,13734,13734
+Female,634,Employee relations,18,3,3,1,19999,19999
+Female,635,Sales,8,2,3,6,2279,2279
+Female,647,Content Writing,6,3,3,6,5916,5916
+Female,655,Research,6,2,3,5,2089,2089
+Female,657,Research,1,4,3,1,16792,16792
+Female,659,Employee relations,10,3,3,10,3564,3564
+Female,662,Research,8,2,3,0,4425,4425
+Male,664,Workforce Management,21,1,3,3,5265,5265
+Male,665,Performance Management,10,4,3,2,6553,6553
+Male,666,Sales,8,3,3,8,6261,6261
+Male,679,Research,6,2,3,6,4298,4298
+Male,680,Research,1,3,4,1,6804,6804
+Male,682,Sales,18,4,4,14,3815,3815
+Male,684,Sales,5,3,3,1,2741,2741
+Male,686,Content Writing,3,3,3,3,6673,6673
+Male,690,Sales,6,2,3,6,7639,7639
+Male,709,Sales,8,3,4,7,2328,2328
+Male,714,Sales,6,3,4,6,2153,2153
+Male,717,Employee relations,9,4,3,8,4876,4876
+Male,720,Sales,4,3,3,2,9396,9396
+Male,721,Employee relations,20,3,3,20,10400,10400
+Male,724,Employee relations,10,2,3,9,8474,8474
+Male,725,Sales,9,3,3,9,9981,9981
+Male,727,Delivery,10,3,3,7,12490,12490
+Male,741,Research,10,3,3,7,2657,2657
+Male,742,Delivery,10,3,3,8,13591,13591
+Male,743,Sales,10,4,3,1,6696,6696
+Male,746,Sales,28,2,3,22,2058,2058
+Male,757,Employee relations,10,3,3,5,8865,8865
+Male,760,Performance Management,12,1,3,8,5940,5940
+Male,763,Research,5,2,4,4,5914,5914
+Male,764,Employee relations,9,1,3,7,2622,2622
+Male,771,Employee relations,16,4,3,1,12185,12185
+Male,775,Sales,7,3,3,0,10609,10609
+Male,781,Sales,6,2,4,6,4345,4345
+Male,785,Sales,8,3,3,5,2177,2177
+Male,792,Content Writing,5,3,3,2,2793,2793
+Male,793,Employee relations,11,2,3,8,7918,7918
+Male,797,Research,10,3,3,4,8789,8789
+Male,799,Sales,9,3,3,5,2389,2389
+Male,802,Research,6,2,3,5,3212,3212
+Male,803,Sales,17,3,3,15,19232,19232
+Female,804,Research,6,3,3,6,2267,2267
+Female,805,Sales,3,2,3,3,19517,19517
+Female,807,Employee relations,8,3,4,8,2436,2436
+Female,808,Sales,6,3,3,3,16064,16064
+Female,813,Content Writing,9,3,4,5,2707,2707
+Female,816,Content Writing,1,3,2,1,19068,19068
+Female,819,Sales,6,3,2,3,3931,3931
+Female,820,Workforce Management,26,2,2,26,3730,3730
+Female,823,Sales,10,3,2,9,2232,2232
+Female,826,Research,7,3,3,2,4465,4465
+Female,827,Sales,8,3,3,4,3072,3072
+Female,830,Sales,14,3,3,14,3319,3319
+Female,833,Sales,12,2,4,0,19202,19202
+Female,834,Research,1,3,3,1,13675,13675
+Female,838,Research,6,3,3,5,2911,2911
+Female,840,Sales,9,4,3,9,5957,5957
+Female,846,Sales,8,3,4,8,3920,3920
+Female,848,Research,8,3,3,8,6434,6434
+Female,851,Workforce Management,29,2,3,20,10048,10048
+Female,856,Research,6,2,3,6,10938,10938
+Female,862,Sales,35,3,3,5,2340,2340
+Female,865,Research,9,2,3,5,6545,6545
+Male,867,Sales,31,3,4,9,6931,6931
+Male,880,Sales,17,3,4,17,4898,4898
+Male,881,Research,10,2,3,10,2593,2593
+Male,887,Research,7,3,3,4,19436,19436
+Male,894,Content Writing,17,2,3,5,2723,2723
+Male,896,Sales,5,3,3,3,3479,3479
+Male,900,Sales,10,3,3,5,2794,2794
+Male,901,Delivery,33,3,3,12,5249,5249
+Male,902,Employee relations,12,2,3,5,2176,2176
+Male,903,Sales,8,3,4,7,16872,16872
+Male,909,Performance Management,13,3,3,5,3485,3485
+Male,912,Content Writing,8,3,3,4,6644,6644
+Male,920,Sales,4,4,4,1,5582,5582
+Male,922,Sales,2,2,3,2,4000,4000
+Male,923,Research,1,2,3,1,13496,13496
+Male,925,Sales,3,2,3,3,3210,3210
+Male,926,Sales,4,4,3,3,19045,19045
+Male,927,Content Writing,10,2,3,7,11849,11849
+Male,930,Research,6,3,3,2,2070,2070
+Male,933,Research,1,3,3,1,6502,6502
+Male,936,Sales,10,3,3,5,3230,3230
+Male,940,Employee relations,24,3,3,6,13603,13603
+Male,942,Employee relations,10,1,4,10,11996,11996
+Male,944,Content Writing,29,2,3,26,5605,5605
+Male,947,Sales,9,2,3,9,6397,6397
+Male,950,Delivery,15,3,3,15,19144,19144
+Male,951,Content Writing,5,3,4,3,17584,17584
+Male,961,Employee relations,10,1,3,9,4907,4907
+Male,966,Sales,8,4,3,8,4554,4554
+Male,969,Employee relations,6,3,3,5,5415,5415
+Male,974,Sales,3,3,3,3,4741,4741
+Male,975,Sales,5,3,3,5,2115,2115
+Male,983,Sales,6,3,3,5,3161,3161
+Male,986,Sales,22,2,3,1,5745,5745
+Male,994,Research,3,3,4,0,2373,2373
+Male,995,Research,5,3,3,3,3310,3310
+Male,996,Content Writing,8,3,3,5,18665,18665
+Male,998,Employee relations,6,3,3,6,4485,4485
+Male,1001,Content Writing,4,3,3,2,2789,2789
+Male,1003,Sales,9,3,3,9,5828,5828
+Male,1004,Research,7,3,3,5,2326,2326
+Male,1009,Sales,5,3,3,4,13525,13525
+Male,1011,Sales,4,3,3,4,1420,1420
+Male,1013,Sales,22,3,3,10,8020,8020
+Male,1014,Employee relations,16,2,3,16,3688,3688
+Male,1015,Delivery,9,2,3,8,5482,5482
+Male,1016,Research,1,3,3,1,16015,16015
+Male,1017,Content Writing,4,3,3,3,1200,1200
+Male,1025,Sales,8,3,3,2,5661,5661
+Male,1026,Sales,21,3,3,21,6929,6929
+Male,1027,Sales,4,3,3,3,9613,9613
+Male,1032,Sales,30,3,3,5,5674,5674
+Male,1033,Employee relations,15,1,3,1,5484,5484
+Male,1035,Delivery,21,3,4,21,12061,12061
+Male,1038,Workforce Management,33,3,3,32,5660,5660
+Male,1039,Sales,23,3,3,12,4821,4821
+Male,1040,Sales,19,3,3,18,6410,6410
+Male,1042,Content Writing,18,3,3,17,5210,5210
+Male,1043,Sales,21,3,3,21,2695,2695
+Male,1044,Sales,3,2,3,2,11878,11878
+Male,1045,Workforce Management,26,4,3,9,17068,17068
+Male,1046,Content Writing,10,3,3,8,2455,2455
+Male,1050,Sales,30,3,3,15,13964,13964
+Male,1055,Sales,1,3,3,1,4941,4941
+Male,1062,Employee relations,8,2,3,4,2478,2478
+Male,1068,Research,5,3,3,5,5228,5228
+Female,1070,Sales,13,3,3,9,4478,4478
+Female,1071,Research,18,3,3,5,7547,7547
+Female,1073,Sales,15,2,3,14,5055,5055
+Female,1077,Sales,2,3,3,2,3464,3464
+Female,1079,Content Writing,1,2,3,1,5775,5775
+Female,1080,Research,19,3,4,16,8943,8943
+Female,1085,Research,10,3,3,10,19272,19272
+Female,1088,Employee relations,20,2,3,19,5238,5238
+Female,1097,Research,10,4,3,8,4682,4682
+Female,1101,Research,14,3,4,13,18300,18300
+Female,1105,Sales,8,3,3,1,5257,5257
+Female,1114,Sales,4,3,3,3,6349,6349
+Female,1117,Sales,15,3,3,15,4869,4869
+Female,1120,Research,11,3,4,7,9985,9985
+Female,1121,Sales,10,2,3,9,3697,3697
+Female,1126,Sales,18,3,3,8,7457,7457
+Female,1131,Research,2,4,3,2,2119,2119
+Female,1143,Research,8,2,3,7,3983,3983
+Female,1157,Sales,6,3,3,5,6118,6118
+Female,1161,Employee relations,9,3,3,6,6214,6214
+Female,1163,Sales,6,2,4,6,6347,6347
+Female,1165,Sales,11,1,3,11,11510,11510
+Female,1166,Delivery,20,2,3,18,7143,7143
+Female,1175,Content Writing,1,2,3,1,8268,8268
+Female,1180,Research,16,1,3,1,8095,8095
+Female,1188,Sales,7,2,3,4,2904,2904
+Female,1190,Sales,1,3,3,1,6032,6032
+Female,1191,Workforce Management,28,3,3,5,2976,2976
+Female,1192,Content Writing,10,3,3,10,15992,15992
+Female,1195,Research,7,2,3,3,4649,4649
+Female,1196,Sales,14,2,3,14,2696,2696
+Female,1201,Workforce Management,26,3,3,7,2370,2370
+Female,1202,Research,6,2,3,5,12504,12504
+Female,1204,Workforce Management,28,3,4,26,5974,5974
+Female,1215,Workforce Management,32,3,4,2,4736,4736
+Female,1219,Content Writing,1,1,3,1,5296,5296
+Female,1220,Sales,10,2,3,10,6781,6781
+Female,1234,Content Writing,2,3,4,2,2174,2174
+Female,1235,Research,10,3,3,8,6653,6653
+Female,1237,Sales,17,3,4,7,9699,9699
+Female,1239,Sales,7,4,3,5,6755,6755
+Female,1242,Delivery,20,3,3,1,2213,2213
+Male,1243,Sales,16,2,3,13,2610,2610
+Male,1245,Sales,33,1,3,5,2851,2851
+Male,1246,Research,10,3,3,10,3452,3452
+Male,1248,Research,1,4,4,1,5258,5258
+Male,1249,Research,3,3,3,3,9355,9355
+Male,1252,Employee relations,10,3,3,10,10496,10496
+Male,1254,Sales,13,3,3,6,6380,6380
+Male,1264,Delivery,9,2,3,7,2657,2657
+Male,1265,Research,2,2,3,1,2716,2716
+Male,1269,Research,1,3,3,1,2201,2201
+Male,1277,Workforce Management,26,3,3,24,6540,6540
+Male,1279,Content Writing,2,1,4,2,3816,3816
+Male,1280,Workforce Management,26,3,3,11,5253,5253
+Male,1281,Sales,4,3,3,3,10965,10965
+Male,1285,Content Writing,15,4,3,11,4936,4936
+Male,1292,Research,18,3,3,1,2543,2543
+Male,1293,Sales,23,4,3,21,5304,5304
+Male,1294,Sales,18,3,3,16,16659,16659
+Male,1295,Employee relations,10,3,3,10,4260,4260
+Male,1297,Content Writing,8,2,3,7,2476,2476
+Male,1298,Sales,10,3,3,8,3102,3102
+Male,1299,Content Writing,10,3,3,7,2244,2244
+Male,1303,Research,2,2,3,2,7596,7596
+Male,1306,Workforce Management,22,3,4,0,2285,2285
+Male,1307,Workforce Management,21,3,3,19,3034,3034
+Male,1311,Content Writing,10,3,3,9,5715,5715
+Male,1312,Employee relations,10,3,3,7,2576,2576
+Male,1314,Performance Management,10,4,3,7,4197,4197
+Male,1315,Content Writing,10,3,3,9,14336,14336
+Male,1317,Delivery,25,3,3,3,3448,3448
+Male,1321,Workforce Management,9,3,4,9,19406,19406
+Male,1324,Sales,10,2,3,10,6538,6538
+Male,1331,Sales,3,4,3,3,4306,4306
+Male,1336,Workforce Management,23,3,3,19,2258,2258
+Male,1349,Sales,10,3,3,9,4522,4522
+Male,1355,Sales,11,3,3,7,4487,4487
+Male,1356,Sales,10,4,3,10,4449,4449
+Male,1360,Sales,31,2,3,10,2218,2218
+Male,1362,Sales,17,2,3,15,19197,19197
+Male,1364,Sales,5,3,3,1,13212,13212
+Male,1367,Sales,29,2,3,5,6577,6577
+Male,1368,Content Writing,0,4,3,0,8392,8392
+Male,1369,Content Writing,10,3,3,9,4558,4558
+Male,1374,Research,5,3,4,5,4031,4031
+Male,1375,Employee relations,15,3,4,12,7969,7969
+Male,1379,Sales,3,4,3,1,2654,2654
+Male,1380,Sales,5,2,3,4,16555,16555
+Male,1383,Employee relations,14,4,3,14,4556,4556
+Male,1392,Research,12,2,3,6,6091,6091
+Male,1401,Sales,24,2,3,5,19566,19566
+Male,1402,Research,20,1,3,20,4810,4810
+Male,1403,Sales,6,3,3,6,4523,4523
+Male,1405,Research,8,3,3,8,3202,3202
+Male,1408,Workforce Management,21,3,3,20,2351,2351
+Male,1409,Content Writing,12,1,3,5,1702,1702
+Male,1411,Content Writing,8,3,3,3,18041,18041
+Male,1421,Employee relations,9,3,3,8,2886,2886
+Male,1422,Delivery,29,2,3,20,2097,2097
+Male,1423,Delivery,32,3,4,9,11935,11935
+Male,1425,Sales,15,3,3,5,2546,2546
+Male,1427,Sales,1,3,3,1,2564,2564
+Male,1428,Sales,8,3,3,3,8412,8412
+Male,1430,Delivery,9,4,3,3,14118,14118
+Male,1433,Research,1,4,3,1,17046,17046
+Male,1436,Sales,11,2,3,3,2564,2564
+Male,1441,Research,5,4,4,3,10266,10266
+Male,1443,Delivery,26,4,3,20,5070,5070
+Male,1445,Sales,5,3,3,5,17861,17861
+Male,1447,Content Writing,7,2,3,5,4230,4230
+Male,1458,Content Writing,11,4,4,1,3780,3780
+Male,1459,Sales,10,3,3,10,2768,2768
+Male,1461,Performance Management,8,3,3,3,9071,9071
+Male,1467,Performance Management,2,3,3,2,10648,10648
+Male,1480,Content Writing,12,3,3,12,13610,13610
+Male,1481,Sales,11,2,3,1,3408,3408
+Male,1487,Sales,7,1,3,5,2983,2983
+Male,1489,Sales,16,4,4,15,7632,7632
+Male,1495,Sales,1,3,3,1,9824,9824
+Male,1502,Content Writing,8,3,3,5,9950,9950
+Male,1503,Sales,11,2,3,5,2093,2093
+Male,1509,Content Writing,10,3,4,3,9980,9980
+Male,1513,Content Writing,4,3,3,3,3894,3894
+Male,1520,Workforce Management,26,3,4,14,4051,4051
+Male,1525,Sales,9,3,3,2,16835,16835
+Male,1527,Workforce Management,23,4,3,13,6230,6230
+Male,1529,Employee relations,11,1,3,11,4717,4717
+Male,1537,Research,7,1,3,7,13237,13237
+Female,1544,Employee relations,9,3,3,7,3755,3755
+Female,1554,Sales,6,3,4,5,6582,6582
+Female,1555,Research,12,3,3,7,7406,7406
+Female,1557,Sales,18,3,3,8,4805,4805
+Female,1569,Content Writing,1,3,3,1,2741,2741
+Female,1572,Sales,34,3,3,33,4262,4262
+Female,1576,Research,10,2,3,8,16184,16184
+Female,1581,Research,1,3,4,1,11557,11557
+Female,1583,Sales,8,4,3,3,1878,1878
+Female,1585,Sales,15,3,3,1,10932,10932
+Female,1587,Employee relations,10,3,3,5,6811,6811
+Female,1598,Sales,5,3,3,5,4306,4306
+Female,1605,Research,4,2,3,4,4859,4859
+Female,1607,Research,6,3,3,3,5337,5337
+Female,1608,Delivery,23,2,3,22,2340,2340
+Female,1611,Content Writing,10,3,3,10,7491,7491
+Female,1614,Sales,7,3,3,3,10527,10527
+Female,1617,Content Writing,10,2,3,9,16595,16595
+Female,1622,Sales,6,2,4,5,8834,8834
+Female,1624,Sales,0,4,3,0,5577,5577
+Female,1625,Workforce Management,27,3,3,5,4707,4707
+Female,1628,Sales,18,3,3,18,2400,2400
+Female,1630,Employee relations,15,3,3,14,9824,9824
+Female,1633,Sales,10,1,3,9,6447,6447
+Female,1635,Sales,10,3,3,10,19502,19502
+Female,1638,Sales,10,4,3,5,2725,2725
+Female,1640,Research,8,1,3,8,6272,6272
+Female,1641,Sales,18,2,3,4,2127,2127
+Female,1646,Research,6,3,3,6,18200,18200
+Female,1647,Research,5,3,3,3,2096,2096
+Female,1651,Employee relations,9,3,3,3,2886,2886
+Female,1655,Delivery,27,3,3,4,2033,2033
+Female,1656,Delivery,19,3,3,14,3622,3622
+Female,1657,Sales,2,3,3,2,4233,4233
+Female,1658,Research,11,3,3,11,3681,3681
+Female,1661,Employee relations,30,3,3,15,5460,5460
+Female,1662,Sales,4,3,3,3,2187,2187
+Female,1665,Workforce Management,36,3,4,10,9602,9602
+Female,1673,Sales,10,3,3,10,2836,2836
+Female,1674,Content Writing,17,2,3,2,4089,4089
+Female,1675,Content Writing,4,3,4,4,16627,16627
+Female,1676,Workforce Management,29,3,3,3,2619,2619
+Female,1681,Sales,7,3,4,6,5679,5679
+Female,1683,Performance Management,8,3,3,2,15402,15402
+Female,1687,Content Writing,7,2,3,0,5985,5985
+Female,1691,Sales,19,3,3,9,2579,2579
+Female,1701,Research,10,3,3,10,3041,3041
+Female,1703,Employee relations,9,3,3,8,3447,3447
+Female,1709,Content Writing,9,3,3,5,19513,19513
+Female,1710,Sales,17,2,3,13,2773,2773
+Female,1719,Delivery,21,3,3,21,7104,7104
+Female,1724,Sales,18,3,3,1,6322,6322
+Female,1735,Content Writing,3,1,3,3,2083,2083
+Female,1736,Sales,9,2,4,5,8381,8381
+Male,1744,Performance Management,9,4,4,5,2691,2691
+Male,1745,Research,10,3,3,9,4286,4286
+Male,1747,Performance Management,6,2,3,4,2659,2659
+Male,1751,Research,6,2,3,6,9434,9434
+Male,1752,Sales,2,3,3,2,5561,5561
+Male,1756,Sales,13,2,3,11,6646,6646
+Male,1757,Sales,8,4,3,5,7725,7725
+Male,1758,Sales,11,2,4,0,10725,10725
+Male,1760,Content Writing,9,2,3,6,8847,8847
+Male,1762,Research,1,3,3,1,2045,2045
+Male,1775,Sales,27,2,4,3,1009,1009
+Male,1779,Sales,6,3,3,2,3348,3348
+Male,1782,Content Writing,5,3,3,5,1281,1281
+Male,1783,Content Writing,1,3,3,1,2819,2819
+Male,1784,Sales,13,3,3,12,4851,4851
+Male,1786,Workforce Management,15,3,3,2,4028,4028
+Male,1802,Content Writing,7,2,3,4,2720,2720
+Male,1815,Sales,23,4,3,22,8120,8120
+Male,1816,Sales,9,3,3,7,4647,4647
+Male,1818,Performance Management,6,3,3,5,4680,4680
+Male,1821,Employee relations,13,4,4,9,3221,3221
+Male,1822,Employee relations,12,3,3,5,8621,8621
+Male,1827,Sales,28,3,3,22,4577,4577
+Male,1829,Employee relations,15,3,3,7,4553,4553
+Male,1830,Research,14,2,3,7,5396,5396
+Male,1833,Sales,9,3,3,3,6796,6796
+Male,1834,Research,3,3,4,3,7625,7625
+Male,1835,Sales,20,2,4,4,7412,7412
+Male,1839,Research,0,1,3,0,11159,11159
+Male,1845,Sales,10,4,4,8,4960,4960
+Male,1847,Research,15,3,4,1,10475,10475
+Male,1850,Content Writing,6,2,3,5,14814,14814
+Male,1856,Content Writing,7,3,3,2,19141,19141
+Male,1863,Sales,25,3,3,19,5405,5405
+Male,1864,Sales,9,3,4,9,8793,8793
+Male,1866,Workforce Management,21,3,3,16,19189,19189
+Male,1869,Sales,14,3,4,8,3875,3875
+Male,1870,Research,8,2,3,7,2216,2216
+Male,1875,Sales,1,3,3,1,11713,11713
+Male,1880,Sales,10,3,3,10,7861,7861
+Male,1886,Sales,4,3,3,3,3708,3708
+Male,1888,Sales,10,2,3,9,13770,13770
+Male,1893,Research,1,2,3,1,5304,5304
+Male,1898,Sales,9,2,3,8,2642,2642
+Male,1900,Workforce Management,24,3,3,22,2759,2759
+Male,1909,Sales,14,3,4,5,6804,6804
+Male,1912,Sales,8,3,3,5,6142,6142
+Male,1915,Sales,9,2,3,4,2500,2500
+Male,1916,Content Writing,4,2,3,2,6389,6389
+Male,1929,Sales,10,3,3,3,11103,11103
+Male,1933,Sales,6,3,3,2,2342,2342
+Male,1935,Sales,6,3,2,0,6811,6811
+Male,1937,Research,20,3,2,20,2297,2297
+Male,1938,Workforce Management,29,2,2,1,2450,2450
+Male,1939,Research,8,3,2,4,5093,5093
+Male,1944,Performance Management,1,3,2,1,5309,5309
+Male,1955,Employee relations,9,3,2,5,3057,3057
+Male,1962,Sales,10,3,2,10,5121,5121
+Male,1969,Research,9,2,3,4,16856,16856
+Male,1974,Content Writing,1,3,3,1,2686,2686
+Male,1979,Delivery,13,4,4,11,6180,6180
+Male,1980,Sales,9,3,3,5,6632,6632
+Male,1985,Content Writing,10,4,3,10,3505,3505
+Male,1986,Sales,15,3,3,11,6397,6397
+Male,1987,Performance Management,6,3,3,2,6274,6274
+Male,2000,Delivery,14,1,3,13,19859,19859
+Male,2009,Employee relations,10,3,3,9,7587,7587
+Male,2010,Content Writing,6,3,3,6,4258,4258
+Male,2015,Delivery,20,3,3,18,4364,4364
+Male,2016,Sales,14,3,3,14,4335,4335
+Male,2017,Delivery,16,3,4,16,5326,5326
+Male,2018,Sales,6,2,4,5,3280,3280
+Male,2024,Sales,10,3,3,9,5485,5485
+Male,2025,Sales,18,3,3,4,4342,4342
+Male,2034,Sales,21,3,4,20,2782,2782
+Male,2035,Sales,8,3,4,8,5980,5980
+Male,2040,Performance Management,9,3,3,9,4381,4381
+Male,2041,Sales,10,3,3,10,2572,2572
+Male,2045,Sales,8,2,3,6,3833,3833
+Male,2046,Sales,8,3,3,5,4244,4244
+Male,2051,Research,20,3,3,5,6500,6500
+Male,2052,Research,4,3,3,4,18430,18430
+Male,2054,Research,5,1,3,5,1601,1601
+Male,2056,Sales,21,2,3,20,2694,2694
+Male,2060,Sales,5,3,3,4,3149,3149
+Male,2,Research,10,3,4,10,17639,17639
+Male,4,Content Writing,7,3,3,0,2319,2319
+Male,7,Content Writing,6,3,3,2,11691,11691
+Male,8,Content Writing,8,2,3,7,5324,5324
+Male,11,Content Writing,1,3,4,1,16752,16752
+Male,12,Sales,10,3,4,9,5228,5228
+Male,13,Employee relations,17,2,3,7,2700,2700
+Male,14,Content Writing,6,3,3,5,19246,19246
+Male,16,Research,5,2,3,5,2506,2506
+Male,18,Content Writing,3,3,3,2,6062,6062
+Male,19,Content Writing,6,3,3,4,4382,4382
+Male,21,Research,7,2,3,6,2143,2143
+Male,22,Content Writing,1,2,3,1,6162,6162
+Male,24,Research,6,3,3,3,5094,5094
+Male,27,Sales,10,3,4,5,6877,6877
+Male,30,Research,0,3,3,0,2274,2274
+Male,31,Research,8,3,3,4,4434,4434
+Male,35,Sales,10,3,3,9,6288,6288
+Male,39,Content Writing,7,3,3,1,2553,2553
+Male,40,Employee relations,9,4,3,4,7654,7654
+Male,41,Content Writing,10,3,3,10,5160,5160
+Male,42,Sales,19,4,3,1,17159,17159
+Male,45,Research,6,2,3,2,12808,12808
+Male,47,Sales,3,3,3,3,10221,10221
+Male,53,Content Writing,1,3,3,1,4779,4779
+Male,55,Content Writing,1,2,3,1,3737,3737
+Male,56,Sales,9,3,3,9,2366,2366
+Male,60,Sales,10,3,4,9,1706,1706
+Male,61,Research,8,3,4,1,16307,16307
+Male,62,Sales,14,3,4,9,5933,5933
+Male,63,Content Writing,1,3,3,1,3424,3424
+Male,64,Content Writing,23,3,3,1,4037,4037
+Male,65,Content Writing,2,2,3,2,2559,2559
+Male,70,Employee relations,10,3,3,4,6201,6201
+Male,74,Sales,9,2,4,9,4403,4403
+Male,76,Content Writing,10,2,4,7,3761,3761
+Male,77,Sales,7,4,3,7,10934,10934
+Male,78,Sales,9,3,4,9,10761,10761
+Male,85,Sales,6,3,3,6,5175,5175
+Male,86,Research,25,3,3,1,13826,13826
+Male,88,Research,5,2,3,3,6334,6334
+Male,90,Research,2,2,3,1,4936,4936
+Male,94,Research,6,3,4,5,4775,4775
+Male,95,Research,1,3,3,1,2818,2818
+Male,96,Research,10,3,3,10,2515,2515
+Male,100,Sales,16,3,3,15,2342,2342
+Male,101,Delivery,17,4,3,0,4194,4194
+Male,102,Delivery,16,4,3,5,10685,10685
+Male,103,Performance Management,16,3,4,4,2022,2022
+Male,104,Content Writing,10,2,3,10,2314,2314
+Male,105,Research,6,3,3,6,4256,4256
+Male,106,Sales,24,3,3,1,3580,3580
+Male,110,Sales,5,3,3,5,3162,3162
+Male,112,Sales,37,2,3,6,6524,6524
+Male,113,Sales,3,3,3,0,2899,2899
+Male,116,Content Writing,10,3,4,4,5231,5231
+Male,117,Employee relations,11,3,3,11,2356,2356
+Male,118,Sales,9,3,3,9,2800,2800
+Male,119,Employee relations,22,2,4,22,11836,11836
+Male,120,Sales,11,1,4,10,10903,10903
+Male,124,Employee relations,21,2,3,10,2973,2973
+Male,125,Sales,12,3,3,11,14275,14275
+Male,129,Sales,5,4,3,5,5562,5562
+Male,131,Sales,38,2,3,37,4537,4537
+Male,132,Content Writing,17,4,3,3,7642,7642
+Male,133,Performance Management,7,3,4,3,17924,17924
+Male,134,Research,1,3,3,1,5204,5204
+Male,139,Employee relations,17,4,3,1,2277,2277
+Male,142,Sales,6,3,3,6,2795,2795
+Male,143,Research,2,3,3,2,2532,2532
+Male,147,Content Writing,9,3,4,9,2559,2559
+Male,150,Content Writing,6,3,3,5,4908,4908
+Male,152,Sales,12,3,3,5,2380,2380
+Male,158,Workforce Management,25,4,3,25,4765,4765
+Male,159,Research,10,2,4,10,2044,2044
+Male,160,Sales,8,4,3,7,2693,2693
+Male,162,Delivery,23,3,3,20,6586,6586
+Male,163,Sales,12,2,3,7,3294,3294
+Male,167,Sales,0,2,3,0,4171,4171
+Male,169,Content Writing,3,3,3,2,2778,2778
+Male,176,Sales,12,3,3,9,2377,2377
+Male,178,Sales,7,3,4,3,2404,2404
+Male,179,Sales,18,3,3,4,2318,2318
+Male,183,Sales,6,3,3,2,2008,2008
+Male,184,Performance Management,12,1,3,11,6244,6244
+Male,192,Research,9,2,3,6,2799,2799
+Male,195,Sales,9,4,3,8,10552,10552
+Male,198,Content Writing,6,3,3,5,2329,2329
+Male,199,Workforce Management,21,2,3,7,4014,4014
+Male,200,Content Writing,7,3,4,5,7403,7403
+Male,204,Sales,10,3,3,10,2259,2259
+Male,205,Sales,13,1,4,7,6932,6932
+Male,206,Content Writing,20,1,3,17,4678,4678
+Male,208,Sales,10,3,3,10,13582,13582
+Male,211,Sales,10,3,3,1,2332,2332
+Male,215,Sales,15,2,3,12,2413,2413
+Male,217,Research,2,3,4,2,9705,9705
+Male,218,Research,6,1,3,2,4294,4294
+Male,221,Research,5,1,3,5,4721,4721
+Male,223,Employee relations,12,1,3,5,2519,2519
+Male,224,Research,1,2,3,1,2121,2121
+Male,227,Research,13,3,3,9,2973,2973
+Male,231,Research,8,3,4,5,5855,5855
+Male,233,Research,6,2,3,5,3617,3617
+Male,238,Content Writing,13,2,3,8,6725,6725
+Male,239,Content Writing,12,3,3,12,10325,10325
+Male,242,Research,4,4,3,3,6949,6949
+Male,243,Content Writing,1,2,4,1,10609,10609
+Male,249,Content Writing,5,2,3,3,4447,4447
+Male,254,Delivery,36,3,3,24,2157,2157
+Male,256,Sales,10,2,3,10,4601,4601
+Male,259,Workforce Management,34,3,3,33,17099,17099
+Male,261,Sales,8,3,3,1,2479,2479
+Male,262,Research,7,4,3,5,14852,14852
+Male,264,Workforce Management,22,3,4,20,7264,7264
+Male,267,Research,8,2,3,8,5666,5666
+Male,271,Sales,14,3,3,1,7823,7823
+Male,273,Sales,9,1,3,7,7880,7880
+Male,274,Sales,6,3,3,2,13194,13194
+Male,275,Sales,7,3,3,7,5067,5067
+Male,277,Research,5,4,3,5,5079,5079
+Male,281,Content Writing,15,4,3,7,2321,2321
+Male,282,Employee relations,17,3,3,1,17444,17444
+Male,284,Research,4,2,3,4,2404,2404
+Male,287,Employee relations,5,1,3,3,3452,3452
+Male,288,Employee relations,17,3,3,4,2270,2270
+Male,291,Sales,14,2,3,14,17399,17399
+Male,292,Sales,12,3,4,11,5488,5488
+Male,296,Delivery,16,1,3,10,19419,19419
+Male,300,Research,7,2,3,6,2811,2811
+Male,304,Content Writing,16,4,3,13,3633,3633
+Male,306,Delivery,10,3,3,10,4163,4163
+Male,307,Sales,17,2,3,16,2132,2132
+Male,308,Sales,6,3,3,5,13973,13973
+Male,309,Research,7,3,3,1,2684,2684
+Male,311,Sales,13,3,3,9,10845,10845
+Male,315,Research,4,2,3,4,4377,4377
+Male,319,Workforce Management,22,3,3,22,3743,3743
+Male,321,Performance Management,7,2,3,2,4148,4148
+Male,325,Content Writing,8,1,3,5,1051,1051
+Male,329,Workforce Management,33,4,3,33,10739,10739
+Male,331,Content Writing,4,1,3,3,10388,10388
+Male,333,Sales,4,3,3,3,11416,11416
+Male,334,Research,17,2,3,1,2600,2600
+Male,335,Research,9,3,3,9,2422,2422
+Male,336,Workforce Management,25,3,3,24,5472,5472
+Male,337,Delivery,9,3,3,2,2451,2451
+Male,339,Sales,13,3,3,11,4240,4240
+Male,341,Sales,9,3,3,3,10999,10999
+Male,342,Sales,17,3,3,1,5003,5003
+Male,346,Research,6,3,3,6,12742,12742
+Male,349,Sales,10,3,3,3,4227,4227
+Male,352,Delivery,22,3,3,21,3917,3917
+Male,353,Research,1,2,3,1,18303,18303
+Male,355,Content Writing,6,4,3,5,2380,2380
+Male,359,Content Writing,5,1,4,5,13726,13726
+Male,361,Sales,13,3,3,8,4777,4777
+Male,362,Content Writing,9,3,3,6,6385,6385
+Male,364,Content Writing,5,1,3,0,19973,19973
+Male,366,Sales,10,3,3,0,6861,6861
+Male,367,Employee relations,10,3,4,9,4969,4969
+Male,369,Employee relations,6,3,3,6,19845,19845
+Male,372,Employee relations,21,3,3,20,13320,13320
+Male,373,Content Writing,16,3,3,15,6347,6347
+Male,374,Workforce Management,37,3,3,36,2743,2743
+Male,376,Workforce Management,10,2,3,10,10880,10880
+Male,377,Research,5,2,4,5,2342,2342
+Male,378,Sales,7,4,3,5,17650,17650
+Male,379,Research,3,4,3,3,4025,4025
+Male,385,Delivery,28,2,3,10,9725,9725
+Male,386,Delivery,21,2,3,5,11904,11904
+Male,387,Sales,20,3,4,20,2177,2177
+Male,388,Sales,10,2,3,10,7525,7525
+Male,389,Content Writing,12,3,3,10,4834,4834
+Male,390,Employee relations,5,3,3,5,2042,2042
+Male,392,Content Writing,19,1,4,1,2220,2220
+Male,393,Employee relations,10,3,3,2,1052,1052
+Male,394,Content Writing,5,3,3,3,2821,2821
+Male,397,Research,10,3,3,8,19237,19237
+Male,401,Sales,8,3,3,8,4107,4107
+Male,403,Research,4,2,3,4,8396,8396
+Male,405,Content Writing,0,3,3,0,2007,2007
+Male,406,Sales,12,2,3,11,19627,19627
+Male,407,Content Writing,4,3,3,1,10686,10686
+Male,408,Sales,13,3,3,4,2942,2942
+Male,410,Workforce Management,22,3,3,22,8858,8858
+Male,412,Employee relations,9,3,3,8,16756,16756
+Male,416,Sales,10,2,3,8,10798,10798
+Male,417,Employee relations,19,2,3,18,2323,2323
+Male,420,Sales,13,2,3,13,1416,1416
+Male,422,Employee relations,12,3,3,5,4615,4615
+Male,423,Research,6,3,3,5,2461,2461
+Male,424,Performance Management,9,3,3,2,8722,8722
+Male,425,Content Writing,24,3,3,24,3955,3955
+Male,426,Research,3,1,3,2,9957,9957
+Male,429,Workforce Management,21,3,3,21,3376,3376
+Male,433,Research,11,2,3,8,8823,8823
+Male,437,Sales,5,3,3,5,10322,10322
+Male,438,Sales,13,3,3,7,4621,4621
+Male,440,Research,5,2,3,3,10976,10976
+Male,444,Workforce Management,21,3,3,21,3660,3660
+Male,446,Sales,9,2,3,7,10482,10482
+Male,447,Delivery,21,3,3,3,7119,7119
+Male,449,Sales,6,3,3,5,9582,9582
+Male,452,Research,12,3,3,10,4508,4508
+Male,453,Sales,6,2,4,4,2207,2207
+Male,454,Content Writing,7,2,3,7,7756,7756
+Male,455,Content Writing,4,3,3,3,6694,6694
+Male,460,Sales,8,2,3,6,3691,3691
+Male,461,Delivery,12,3,3,11,2377,2377
+Male,464,Sales,17,3,3,16,2313,2313
+Male,465,Research,4,2,3,4,17665,17665
+Male,466,Sales,8,3,3,5,2596,2596
+Male,467,Sales,5,3,3,0,4728,4728
+Male,469,Sales,4,2,3,4,4302,4302
+Male,470,Performance Management,4,3,3,3,2979,2979
+Male,474,Research,13,3,3,7,16885,16885
+Male,476,Sales,8,3,3,8,5593,5593
+Male,477,Employee relations,14,3,4,1,10445,10445
+Male,481,Sales,16,3,3,13,8740,8740
+Male,482,Employee relations,15,3,3,3,2514,2514
+Male,484,Sales,3,2,4,3,7655,7655
+Male,488,Sales,8,3,3,8,17465,17465
+Male,491,Employee relations,20,3,3,4,7351,7351
+Male,492,Sales,8,3,3,6,10820,10820
+Male,493,Research,3,3,3,2,12169,12169
+Male,495,Research,6,3,3,3,19626,19626
+Male,496,Employee relations,10,3,3,1,2070,2070
+Male,497,Content Writing,5,3,3,5,6782,6782
+Male,498,Sales,7,3,3,7,7779,7779
+Male,499,Employee relations,26,3,4,5,2791,2791
+Male,502,Sales,9,2,3,5,3201,3201
+Male,508,Sales,1,3,3,1,4968,4968
+Male,510,Research,7,3,4,6,13120,13120
+Male,513,Sales,10,3,3,10,4033,4033
+Male,514,Research,3,3,4,1,3291,3291
+Male,518,Sales,18,2,3,1,4272,4272
+Male,520,Delivery,25,3,3,25,5056,5056
+Male,522,Delivery,24,2,3,4,2844,2844
+Male,525,Content Writing,8,3,4,3,2703,2703
+Male,530,Content Writing,4,3,3,4,1904,1904
+Male,531,Workforce Management,21,3,3,21,8224,8224
+Male,534,Sales,10,3,3,10,4766,4766
+Male,536,Content Writing,10,3,3,10,2610,2610
+Male,538,Content Writing,6,3,3,2,5731,5731
+Male,543,Sales,28,3,3,5,2539,2539
+Male,544,Research,8,2,4,2,5714,5714
+Male,556,Content Writing,1,3,4,1,4323,4323
+Male,562,Content Writing,9,1,3,5,7336,7336
+Male,564,Delivery,10,3,3,10,13499,13499
+Male,566,Performance Management,1,4,3,1,13758,13758
+Male,568,Workforce Management,32,2,3,1,5155,5155
+Male,569,Workforce Management,28,3,3,27,2258,2258
+Male,575,Delivery,26,1,3,3,3597,3597
+Male,577,Content Writing,6,3,3,5,2515,2515
+Male,579,Research,14,3,3,7,4420,4420
+Male,581,Sales,13,4,4,13,6578,6578
+Male,582,Workforce Management,15,4,3,7,4422,4422
+Male,584,Content Writing,8,3,3,4,10274,10274
+Male,585,Sales,4,3,3,3,5343,5343
+Male,586,Employee relations,10,3,3,8,2376,2376
+Male,587,Employee relations,12,3,3,1,5346,5346
+Male,591,Content Writing,8,3,3,2,2827,2827
+Male,592,Sales,10,2,3,10,19943,19943
+Male,593,Content Writing,4,3,3,2,3131,3131
+Male,599,Sales,16,3,3,14,2552,2552
+Male,600,Sales,15,3,3,11,4477,4477
+Male,604,Sales,10,4,3,6,6474,6474
+Male,605,Sales,10,2,4,10,3033,3033
+Male,606,Sales,9,4,3,8,2936,2936
+Male,611,Sales,8,4,3,3,18606,18606
+Male,613,Workforce Management,10,2,4,5,2168,2168
+Male,614,Sales,0,3,3,0,2853,2853
+Male,615,Sales,20,3,3,1,17048,17048
+Male,618,Sales,8,3,3,0,2290,2290
+Male,621,Sales,10,3,3,10,3600,3600
+Male,622,Content Writing,1,1,3,1,2107,2107
+Female,626,Sales,9,3,3,9,4115,4115
+Female,630,Research,18,3,3,10,4327,4327
+Female,631,Sales,6,3,3,4,17856,17856
+Female,632,Sales,3,3,3,2,3196,3196
+Female,638,Delivery,31,3,3,31,19081,19081
+Female,639,Research,6,3,3,6,8966,8966
+Female,641,Sales,6,4,4,5,2210,2210
+Female,643,Content Writing,1,3,4,1,4539,4539
+Female,644,Workforce Management,32,3,3,32,2741,2741
+Female,645,Sales,7,3,3,7,3491,3491
+Female,648,Sales,1,4,3,1,4541,4541
+Female,649,Research,6,3,3,6,2678,2678
+Female,650,Sales,9,1,3,3,7379,7379
+Female,652,Content Writing,9,3,3,3,6272,6272
+Female,653,Sales,13,4,4,7,5220,5220
+Female,656,Sales,17,2,1,3,2743,2743
+Female,661,Delivery,21,2,1,1,4998,4998
+Female,663,Content Writing,10,3,1,8,10252,10252
+Female,667,Sales,5,3,1,4,2781,2781
+Female,669,Sales,3,3,1,3,6852,6852
+Female,671,Workforce Management,26,4,3,2,4950,4950
+Female,675,Research,3,3,4,2,3579,3579
+Female,677,Sales,6,3,3,5,13191,13191
+Female,683,Research,10,2,3,10,10377,10377
+Female,689,Sales,10,3,3,10,2235,2235
+Female,691,Research,17,3,3,17,10502,10502
+Female,692,Employee relations,15,1,4,13,2011,2011
+Female,698,Performance Management,16,4,3,9,1859,1859
+Female,699,Sales,13,3,3,3,3760,3760
+Female,700,Research,5,3,3,4,17779,17779
+Female,701,Research,1,3,3,1,6833,6833
+Female,702,Research,10,3,3,10,6812,6812
+Female,704,Content Writing,1,3,3,1,5171,5171
+Female,705,Research,5,4,3,3,19740,19740
+Female,707,Sales,4,3,4,3,18711,18711
+Female,710,Research,10,3,3,10,3692,3692
+Female,712,Sales,12,3,3,2,2559,2559
+Female,715,Research,4,3,3,1,2517,2517
+Female,716,Content Writing,20,3,3,20,6623,6623
+Female,722,Sales,10,2,3,10,18265,18265
+Female,723,Sales,18,3,3,4,16124,16124
+Female,728,Sales,20,3,3,7,2585,2585
+Female,729,Sales,20,3,4,18,18213,18213
+Female,730,Delivery,32,3,3,5,8380,8380
+Female,731,Workforce Management,23,2,3,21,2994,2994
+Female,732,Sales,10,3,3,2,1223,1223
+Female,733,Sales,9,2,4,9,1118,1118
+Female,734,Workforce Management,22,3,3,22,2875,2875
+Female,738,Sales,4,3,3,2,18824,18824
+Female,744,Content Writing,9,3,3,5,13577,13577
+Male,747,Sales,10,2,4,8,2625,2625
+Male,749,Sales,1,3,3,1,18789,18789
+Male,752,Research,7,3,3,2,4538,4538
+Male,754,Sales,7,3,3,2,19847,19847
+Male,758,Content Writing,5,4,3,4,10512,10512
+Male,762,Employee relations,30,2,3,10,4444,4444
+Male,766,Sales,2,3,3,2,2154,2154
+Male,769,Content Writing,19,3,3,2,19190,19190
+Male,772,Content Writing,10,3,3,10,4490,4490
+Male,773,Research,6,1,3,1,3506,3506
+Male,776,Workforce Management,34,4,3,34,2372,2372
+Male,780,Research,10,2,3,10,10231,10231
+Male,783,Sales,9,3,3,8,5410,5410
+Male,784,Research,2,3,3,2,7978,7978
+Male,786,Sales,6,3,4,6,3867,3867
+Male,787,Workforce Management,24,3,3,5,2838,2838
+Male,789,Sales,10,3,3,10,4695,4695
+Male,791,Research,5,3,3,4,3339,3339
+Male,796,Sales,6,2,3,4,2080,2080
+Male,800,Sales,5,3,3,4,2096,2096
+Male,806,Content Writing,7,3,4,2,6209,6209
+Male,809,Workforce Management,24,2,3,24,18061,18061
+Male,811,Content Writing,1,3,4,0,17123,17123
+Male,812,Content Writing,1,3,3,1,2372,2372
+Male,815,Delivery,30,3,3,4,4883,4883
+Male,817,Delivery,14,4,3,13,3904,3904
+Male,824,Research,10,3,4,10,4627,4627
+Male,825,Delivery,40,3,3,31,7094,7094
+Male,828,Research,5,2,3,2,3423,3423
+Male,829,Performance Management,8,3,3,5,6674,6674
+Male,832,Content Writing,10,3,3,1,16880,16880
+Male,836,Sales,10,2,3,9,9094,9094
+Male,837,Employee relations,13,2,3,4,8446,8446
+Male,842,Sales,12,2,3,9,11916,11916
+Male,843,Delivery,22,3,4,4,4534,4534
+Male,844,Delivery,9,3,3,9,9852,9852
+Male,845,Sales,17,4,4,8,6151,6151
+Male,847,Performance Management,4,1,3,3,2302,2302
+Male,850,Research,0,2,3,0,2362,2362
+Male,852,Employee relations,10,2,3,5,17861,17861
+Male,854,Research,6,2,3,4,19187,19187
+Male,855,Sales,9,3,4,9,19717,19717
+Male,857,Sales,18,2,3,18,3544,3544
+Male,859,Sales,8,2,3,5,8500,8500
+Male,861,Research,10,2,3,5,4661,4661
+Male,864,Sales,18,3,3,5,4103,4103
+Male,868,Sales,9,3,3,1,4249,4249
+Male,869,Performance Management,6,3,3,5,14026,14026
+Male,872,Sales,4,1,4,2,6893,6893
+Male,874,Content Writing,10,2,4,3,6125,6125
+Male,875,Research,8,3,3,2,3669,3669
+Male,878,Performance Management,6,3,4,5,10008,10008
+Male,879,Sales,5,3,3,5,2387,2387
+Male,882,Content Writing,4,3,3,3,4639,4639
+Male,885,Sales,5,4,3,5,7898,7898
+Male,888,Content Writing,6,2,3,5,2534,2534
+Male,889,Sales,10,3,3,10,13142,13142
+Male,893,Sales,3,3,3,2,1611,1611
+Male,895,Research,8,3,3,6,5363,5363
+Male,897,Sales,28,3,3,2,5071,5071
+Male,899,Sales,16,3,3,13,13695,13695
+Male,904,Sales,10,3,3,10,13402,13402
+Male,905,Workforce Management,31,3,3,31,2029,2029
+Male,910,Performance Management,7,4,3,4,6377,6377
+Male,911,Content Writing,1,1,4,1,5429,5429
+Male,913,Research,8,3,3,8,2785,2785
+Male,916,Sales,4,3,3,4,4614,4614
+Male,918,Content Writing,3,2,3,1,2610,2610
+Male,924,Employee relations,17,2,3,16,6687,6687
+Male,932,Content Writing,8,1,4,2,4724,4724
+Male,934,Content Writing,1,3,3,1,6179,6179
+Male,939,Research,6,3,3,3,6120,6120
+Male,941,Sales,13,4,3,7,10596,10596
+Male,945,Research,13,2,3,0,5467,5467
+Male,949,Research,8,3,3,6,2996,2996
+Male,952,Sales,1,3,3,1,9998,9998
+Female,954,Sales,11,2,3,1,4078,4078
+Female,956,Sales,7,3,3,7,10920,10920
+Female,957,Content Writing,20,3,3,18,6232,6232
+Female,958,Content Writing,16,3,4,11,13247,13247
+Female,959,Sales,1,4,3,1,4081,4081
+Female,960,Content Writing,1,3,3,1,5769,5769
+Female,964,Research,3,3,3,1,2394,2394
+Female,967,Sales,16,3,3,16,3904,3904
+Female,970,Sales,17,1,3,14,16799,16799
+Female,972,Content Writing,9,2,3,9,2950,2950
+Female,976,Workforce Management,26,2,3,9,3629,3629
+Female,977,Research,7,3,4,1,9362,9362
+Female,981,Workforce Management,22,4,3,17,3229,3229
+Female,982,Sales,10,4,3,8,3578,3578
+Female,984,Sales,12,3,3,10,7988,7988
+Female,985,Sales,9,3,3,8,4284,4284
+Female,987,Sales,20,4,3,19,7553,7553
+Female,990,Sales,12,3,3,7,17328,17328
+Female,991,Research,4,3,4,3,19701,19701
+Female,992,Workforce Management,10,3,3,10,14732,14732
+Female,997,Delivery,32,2,4,5,9278,9278
+Female,999,Delivery,21,4,3,18,1359,1359
+Female,1002,Content Writing,9,3,3,9,4779,4779
+Female,1005,Sales,22,3,3,12,16422,16422
+Female,1006,Research,3,2,3,2,2996,2996
+Female,1007,Sales,13,3,3,8,1261,1261
+Female,1010,Content Writing,5,1,4,4,2099,2099
+Female,1012,Research,0,3,3,0,5810,5810
+Female,1018,Sales,8,3,3,8,5647,5647
+Female,1019,Content Writing,4,2,3,4,3420,3420
+Female,1022,Employee relations,19,3,3,2,4400,4400
+Female,1024,Employee relations,27,3,3,15,3500,3500
+Female,1028,Content Writing,3,2,4,3,2066,2066
+Female,1029,Workforce Management,21,4,3,1,17169,17169
+Female,1030,Content Writing,8,3,3,1,4162,4162
+Female,1034,Employee relations,17,3,3,8,9204,9204
+Female,1036,Sales,19,3,3,1,3294,3294
+Female,1037,Sales,7,3,3,2,2127,2127
+Female,1047,Sales,16,2,3,15,3975,3975
+Female,1048,Workforce Management,14,1,3,6,10793,10793
+Female,1049,Performance Management,6,3,3,6,10096,10096
+Female,1052,Content Writing,9,2,3,1,3646,3646
+Female,1053,Research,6,3,3,3,7446,7446
+Female,1056,Sales,1,3,4,1,10851,10851
+Female,1060,Research,8,3,2,2,2109,2109
+Female,1061,Delivery,29,2,2,8,3722,3722
+Female,1066,Sales,8,2,2,7,9380,9380
+Female,1069,Delivery,23,3,2,2,5486,5486
+Female,1074,Workforce Management,31,4,2,9,2742,2742
+Female,1076,Sales,18,3,2,1,13757,13757
+Female,1081,Research,18,4,2,10,8463,8463
+Female,1082,Employee relations,10,2,2,10,3162,3162
+Male,1083,Content Writing,6,3,2,5,16598,16598
+Male,1084,Sales,7,2,2,6,6651,6651
+Male,1092,Employee relations,14,3,4,11,2345,2345
+Male,1094,Content Writing,3,3,3,3,3420,3420
+Male,1096,Sales,23,3,3,3,4373,4373
+Male,1098,Performance Management,24,3,3,20,4759,4759
+Male,1099,Employee relations,9,3,3,3,5301,5301
+Male,1100,Sales,9,3,4,8,3673,3673
+Male,1102,Content Writing,4,2,3,4,4768,4768
+Male,1103,Employee relations,7,2,3,6,1274,1274
+Male,1106,Content Writing,7,4,3,7,4900,4900
+Male,1107,Content Writing,1,2,4,1,10466,10466
+Male,1108,Research,5,3,4,2,17007,17007
+Male,1109,Workforce Management,23,3,3,22,2909,2909
+Male,1111,Content Writing,1,3,3,1,5765,5765
+Male,1113,Sales,5,3,3,0,4599,4599
+Male,1115,Research,6,3,3,0,2404,2404
+Male,1116,Workforce Management,27,2,4,5,3172,3172
+Male,1118,Employee relations,18,3,3,8,2033,2033
+Male,1119,Sales,9,3,3,8,10209,10209
+Male,1124,Workforce Management,23,3,3,12,8620,8620
+Male,1125,Sales,10,3,3,1,2064,2064
+Male,1127,Employee relations,21,3,3,18,4035,4035
+Male,1128,Delivery,21,4,3,20,3838,3838
+Male,1132,Content Writing,9,2,3,5,4591,4591
+Male,1133,Sales,18,3,4,11,2561,2561
+Male,1135,Sales,3,3,3,2,1563,1563
+Male,1136,Research,6,1,3,5,4898,4898
+Male,1137,Sales,5,3,3,5,4789,4789
+Male,1138,Sales,22,3,3,9,3180,3180
+Male,1140,Sales,5,2,3,3,6549,6549
+Male,1148,Content Writing,16,3,3,1,6388,6388
+Male,1150,Sales,10,2,3,10,11244,11244
+Male,1152,Performance Management,7,4,3,7,16032,16032
+Male,1154,Research,3,3,3,3,2362,2362
+Male,1156,Content Writing,0,3,3,0,16328,16328
+Male,1158,Content Writing,6,3,3,1,8376,8376
+Male,1160,Content Writing,2,2,3,2,16606,16606
+Male,1162,Research,4,3,3,4,8606,8606
+Male,1164,Performance Management,6,1,3,5,2272,2272
+Male,1167,Sales,22,2,3,21,2018,2018
+Male,1171,Sales,9,4,3,6,7083,7083
+Male,1172,Content Writing,10,3,3,8,4084,4084
+Male,1173,Content Writing,6,3,4,4,14411,14411
+Male,1177,Content Writing,8,3,4,8,2308,2308
+Male,1179,Sales,10,3,3,10,4841,4841
+Male,1182,Sales,15,4,3,7,4285,4285
+Male,1184,Employee relations,14,3,4,13,9715,9715
+Male,1185,Content Writing,2,4,3,2,4320,4320
+Male,1193,Research,1,3,4,1,2132,2132
+Male,1198,Content Writing,2,2,3,2,10124,10124
+Male,1200,Research,6,3,3,6,5473,5473
+Male,1203,Research,1,3,3,0,5207,5207
+Male,1206,Research,6,3,3,0,16437,16437
+Male,1207,Performance Management,5,3,3,5,2296,2296
+Male,1210,Research,5,1,3,1,4069,4069
+Male,1211,Sales,8,3,3,4,7441,7441
+Male,1212,Sales,5,3,3,0,2430,2430
+Male,1216,Content Writing,6,3,3,6,5878,5878
+Male,1217,Delivery,25,3,3,4,2644,2644
+Male,1218,Sales,15,3,3,7,6439,6439
+Male,1221,Content Writing,7,3,3,7,2451,2451
+Male,1224,Content Writing,10,2,3,10,6392,6392
+Male,1225,Research,20,3,4,20,9714,9714
+Male,1226,Sales,2,3,3,2,6077,6077
+Male,1228,Sales,12,2,3,6,2450,2450
+Male,1231,Performance Management,10,4,3,4,9250,9250
+Male,1233,Sales,12,3,3,11,2074,2074
+Male,1238,Research,15,3,3,14,10169,10169
+Male,1240,Sales,5,3,3,4,4855,4855
+Male,1241,Research,12,3,4,11,4087,4087
+Male,1244,Research,9,2,3,9,2367,2367
+Male,1250,Delivery,36,3,3,10,2972,2972
+Male,1251,Employee relations,6,2,3,6,19586,19586
+Male,1255,Delivery,25,3,3,8,5484,5484
+Male,1256,Workforce Management,23,4,3,1,2061,2061
+Male,1257,Research,12,2,3,11,9924,9924
+Male,1258,Content Writing,7,2,3,1,4198,4198
+Male,1259,Research,5,3,3,5,6815,6815
+Male,1260,Employee relations,6,3,3,6,4723,4723
+Male,1263,Delivery,25,4,3,1,6142,6142
+Male,1267,Workforce Management,26,3,3,22,8237,8237
+Male,1268,Sales,10,3,3,9,8853,8853
+Male,1270,Research,1,3,4,1,19331,19331
+Male,1273,Sales,1,3,3,1,2073,2073
+Male,1275,Research,8,2,4,8,5562,5562
+Male,1278,Employee relations,34,3,3,33,19613,19613
+Male,1282,Workforce Management,31,2,4,29,3407,3407
+Male,1283,Sales,25,2,3,9,5063,5063
+Male,1286,Content Writing,5,2,3,4,4639,4639
+Male,1288,Workforce Management,26,2,3,25,4876,4876
+Male,1289,Performance Management,14,4,3,10,2690,2690
+Male,1291,Research,4,3,3,3,17567,17567
+Male,1296,Content Writing,2,3,3,2,2408,2408
+Male,1301,Research,5,2,3,3,2814,2814
+Male,1304,Sales,10,4,3,10,11245,11245
+Male,1308,Research,2,3,3,2,3312,3312
+Male,1309,Content Writing,10,3,3,10,19049,19049
+Male,1310,Research,6,3,3,5,2141,2141
+Male,1318,Sales,9,3,3,5,5769,5769
+Male,1319,Sales,10,2,3,8,4385,4385
+Male,1322,Sales,9,3,3,8,5332,5332
+Male,1329,Sales,19,3,3,19,4663,4663
+Male,1333,Content Writing,10,4,3,3,4724,4724
+Male,1334,Workforce Management,21,2,3,20,3211,3211
+Male,1338,Workforce Management,36,3,3,7,5377,5377
+Male,1340,Research,6,3,3,4,4066,4066
+Male,1344,Employee relations,10,2,3,9,5208,5208
+Male,1346,Research,9,3,3,9,4877,4877
+Male,1350,Research,9,3,3,9,3117,3117
+Male,1352,Workforce Management,33,3,3,33,1569,1569
+Male,1358,Content Writing,7,2,3,3,19658,19658
+Male,1361,Content Writing,7,3,4,4,3069,3069
+Male,1363,Sales,11,3,3,10,10435,10435
+Male,1371,Sales,8,3,4,6,4148,4148
+Male,1372,Sales,24,2,3,19,5768,5768
+Male,1373,Sales,33,3,3,19,5042,5042
+Male,1377,Content Writing,10,3,3,8,5770,5770
+Male,1382,Research,4,3,3,4,7756,7756
+Male,1387,Sales,5,3,3,5,10306,10306
+Male,1389,Sales,10,2,3,10,3936,3936
+Male,1390,Sales,8,4,3,5,7945,7945
+Male,1391,Sales,14,3,3,4,5743,5743
+Male,1394,Research,8,3,3,6,15202,15202
+Male,1395,Sales,8,4,3,5,5440,5440
+Male,1396,Sales,4,2,3,3,3760,3760
+Male,1397,Employee relations,13,3,4,6,3517,3517
+Male,1399,Sales,6,2,3,3,2580,2580
+Male,1407,Research,5,3,3,4,2166,2166
+Male,1412,Sales,10,3,3,2,5869,5869
+Male,1415,Content Writing,7,2,3,3,8008,8008
+Male,1417,Content Writing,8,3,3,7,5206,5206
+Male,1419,Performance Management,10,2,3,10,5295,5295
+Male,1420,Content Writing,20,3,4,4,16413,16413
+Male,1424,Delivery,31,4,3,7,13269,13269
+Male,1431,Research,10,3,3,4,2783,2783
+Male,1434,Content Writing,6,4,3,5,5433,5433
+Male,1435,Content Writing,10,2,3,10,2013,2013
+Male,1438,Research,17,2,3,6,13966,13966
+Male,1439,Sales,6,3,3,3,4374,4374
+Male,1440,Content Writing,7,1,3,6,6842,6842
+Male,1446,Sales,7,2,3,4,17426,17426
+Male,1448,Research,7,2,3,4,17603,17603
+Male,1449,Content Writing,11,4,3,8,4581,4581
+Male,1453,Sales,13,3,3,13,4735,4735
+Male,1457,Sales,28,4,3,7,4187,4187
+Male,1460,Employee relations,24,3,3,7,5505,5505
+Male,1464,Content Writing,7,1,3,2,5470,5470
+Male,1465,Sales,10,4,3,3,5476,5476
+Male,1466,Sales,15,3,3,2,2587,2587
+Male,1468,Delivery,16,3,3,9,2440,2440
+Male,1469,Sales,6,3,3,5,15972,15972
+Male,1471,Content Writing,7,3,3,5,15379,15379
+Male,1472,Delivery,35,2,3,9,7082,7082
+Male,1473,Employee relations,20,2,3,3,2728,2728
+Male,1474,Research,8,4,3,3,5368,5368
+Male,1475,Research,6,2,3,5,5347,5347
+Male,1477,Sales,5,3,3,4,3195,3195
+Male,1478,Sales,15,3,3,13,3989,3989
+Male,1479,Sales,4,2,3,2,3306,3306
+Male,1482,Research,1,2,3,1,7005,7005
+Male,1483,Research,13,2,4,12,2655,2655
+Male,1484,Employee relations,29,3,3,8,1393,1393
+Male,1485,Delivery,16,2,3,14,2570,2570
+Male,1486,Sales,5,4,3,3,3537,3537
+Male,1492,Sales,1,3,3,1,3986,3986
+Male,1494,Content Writing,4,2,3,0,10883,10883
+Male,1496,Sales,16,2,3,2,2028,2028
+Male,1497,Sales,10,3,3,10,9525,9525
+Male,1499,Performance Management,6,4,4,5,2929,2929
+Male,1501,Employee relations,4,3,3,3,2275,2275
+Male,1504,Content Writing,8,2,3,0,7879,7879
+Male,1506,Research,1,1,3,1,4930,4930
+Male,1507,Sales,5,3,3,4,7847,7847
+Male,1514,Sales,8,2,3,8,4401,4401
+Male,1515,Employee relations,14,3,3,0,9241,9241
+Male,1516,Workforce Management,10,4,4,5,2974,2974
+Male,1522,Research,11,1,3,9,4502,4502
+Male,1523,Delivery,24,4,3,20,10748,10748
+Male,1533,Content Writing,5,3,3,4,1555,1555
+Male,1534,Content Writing,15,1,3,5,12936,12936
+Male,1535,Sales,10,3,3,10,2305,2305
+Male,1539,Delivery,32,3,3,32,16704,16704
+Male,1541,Sales,12,3,4,11,3433,3433
+Male,1542,Content Writing,4,3,3,1,3477,3477
+Male,1543,Research,10,3,3,10,6430,6430
+Male,1545,Sales,5,3,3,5,6516,6516
+Male,1546,Research,8,3,4,5,3907,3907
+Male,1547,Employee relations,24,1,3,20,5562,5562
+Male,1548,Sales,9,4,3,8,6883,6883
+Male,1549,Content Writing,15,3,3,15,2862,2862
+Male,1550,Workforce Management,21,3,4,21,4978,4978
+Male,1551,Content Writing,2,3,3,1,10368,10368
+Male,1552,Employee relations,8,3,3,2,6134,6134
+Male,1553,Employee relations,10,3,3,10,6735,6735
+Male,1556,Sales,7,2,4,3,3295,3295
+Male,1558,Research,5,2,3,1,5238,5238
+Male,1560,Sales,8,1,3,2,6472,6472
+Male,1562,Sales,10,3,3,10,9610,9610
+Male,1563,Performance Management,10,3,3,6,19833,19833
+Male,1564,Content Writing,3,3,3,3,9756,9756
+Male,1568,Sales,9,3,3,4,4968,4968
+Male,1573,Sales,7,3,3,5,2145,2145
+Male,1574,Research,9,2,3,6,2180,2180
+Male,1577,Research,1,1,3,1,8346,8346
+Male,1578,Workforce Management,36,3,4,36,3445,3445
+Male,1580,Research,9,2,3,2,2760,2760
+Male,1582,Sales,10,3,3,9,6294,6294
+Female,1586,Content Writing,10,3,3,10,7140,7140
+Female,1588,Sales,11,3,3,7,2932,2932
+Female,1590,Employee relations,6,4,3,6,5147,5147
+Female,1591,Workforce Management,27,3,3,1,4507,4507
+Female,1592,Research,4,3,3,2,8564,8564
+Female,1594,Content Writing,9,3,3,3,2468,2468
+Female,1595,Workforce Management,24,3,4,1,8161,8161
+Female,1596,Content Writing,10,2,3,10,2109,2109
+Female,1597,Employee relations,8,2,3,8,5294,5294
+Female,1599,Content Writing,8,3,3,6,2718,2718
+Female,1601,Content Writing,1,2,3,1,5811,5811
+Female,1602,Workforce Management,27,1,3,26,2437,2437
+Female,1604,Content Writing,1,3,3,1,2766,2766
+Female,1606,Employee relations,32,3,3,30,19038,19038
+Female,1609,Research,6,2,3,6,3055,3055
+Female,1612,Sales,10,3,3,10,2289,2289
+Female,1613,Sales,10,3,3,5,4001,4001
+Female,1615,Sales,9,3,3,9,12965,12965
+Female,1618,Sales,10,3,3,7,3539,3539
+Female,1619,Content Writing,7,3,3,7,6029,6029
+Female,1621,Research,16,3,3,16,2679,2679
+Female,1623,Research,3,3,3,2,3702,3702
+Female,1627,Content Writing,11,3,3,10,2398,2398
+Female,1631,Sales,9,2,3,4,5468,5468
+Female,1639,Sales,15,3,3,13,13116,13116
+Female,1642,Performance Management,14,3,3,10,4189,4189
+Female,1644,Workforce Management,23,3,4,2,19328,19328
+Female,1645,Sales,7,2,3,2,8321,8321
+Female,1648,Research,6,2,3,4,2342,2342
+Female,1649,Content Writing,10,1,3,4,4071,4071
+Female,1650,Sales,8,3,3,5,5813,5813
+Female,1653,Sales,7,3,3,7,3143,3143
+Female,1654,Sales,7,3,4,5,2044,2044
+Female,1659,Content Writing,15,3,3,4,13464,13464
+Female,1664,Employee relations,13,3,4,5,7991,7991
+Female,1666,Delivery,14,3,4,14,3377,3377
+Female,1667,Sales,13,4,4,11,5538,5538
+Female,1668,Research,19,4,3,13,5762,5762
+Female,1669,Sales,10,2,3,10,2592,2592
+Female,1670,Sales,6,3,3,6,5346,5346
+Female,1671,Research,10,2,3,9,4213,4213
+Female,1677,Workforce Management,23,3,3,8,4127,4127
+Female,1678,Sales,21,3,3,2,2438,2438
+Female,1680,Sales,2,3,3,2,6870,6870
+Female,1682,Employee relations,10,2,3,3,10447,10447
+Female,1684,Content Writing,5,3,3,5,9667,9667
+Female,1689,Employee relations,11,3,3,4,2148,2148
+Female,1692,Content Writing,1,3,3,1,8926,8926
+Female,1693,Content Writing,7,3,4,7,6513,6513
+Female,1694,Research,8,3,3,4,6799,6799
+Female,1696,Content Writing,15,4,3,15,16291,16291
+Female,1697,Employee relations,19,4,4,1,2705,2705
+Female,1698,Content Writing,14,3,3,14,10333,10333
+Female,1700,Sales,6,2,3,6,4448,4448
+Female,1702,Sales,3,3,4,3,6854,6854
+Female,1704,Research,6,4,3,5,9637,9637
+Female,1706,Sales,10,3,3,10,3591,3591
+Female,1707,Research,5,3,3,5,5405,5405
+Female,1708,Sales,10,3,3,10,4684,4684
+Female,1712,Employee relations,25,2,4,23,15787,15787
+Female,1714,Performance Management,1,3,3,1,1514,1514
+Female,1716,Sales,25,1,3,23,2956,2956
+Female,1718,Content Writing,3,4,3,3,2335,2335
+Female,1720,Research,10,2,3,5,5154,5154
+Female,1721,Content Writing,6,4,3,5,6962,6962
+Female,1722,Performance Management,10,3,3,3,5675,5675
+Female,1725,Content Writing,6,4,3,6,2379,2379
+Female,1727,Employee relations,19,3,3,10,3812,3812
+Female,1728,Sales,17,3,3,7,4648,4648
+Female,1729,Research,10,2,3,10,2936,2936
+Female,1731,Sales,4,1,3,1,2105,2105
+Female,1732,Sales,13,2,3,10,8578,8578
+Female,1733,Sales,16,3,3,2,2706,2706
+Female,1734,Sales,10,3,3,0,6384,6384
+Female,1737,Content Writing,9,3,3,9,3968,3968
+Female,1739,Sales,10,1,3,4,9907,9907
+Female,1740,Workforce Management,21,2,3,21,13225,13225
+Female,1746,Performance Management,3,3,3,2,3540,3540
+Female,1749,Sales,6,3,3,5,2804,2804
+Female,1753,Employee relations,10,4,3,3,19392,19392
+Female,1754,Sales,12,3,3,7,19665,19665
+Female,1755,Research,6,3,3,5,2439,2439
+Female,1761,Sales,10,3,3,1,7314,7314
+Female,1763,Employee relations,10,3,3,7,4774,4774
+Female,1764,Research,12,3,3,7,3902,3902
+Female,1766,Employee relations,15,3,3,1,2662,2662
+Female,1767,Research,6,3,3,1,2856,2856
+Female,1768,Content Writing,7,2,4,5,1081,1081
+Female,1770,Delivery,34,3,3,1,2472,2472
+Female,1771,Research,11,2,3,9,5673,5673
+Female,1772,Content Writing,5,3,4,5,4197,4197
+Female,1774,Sales,15,3,3,15,9713,9713
+Female,1778,Performance Management,10,3,3,9,2062,2062
+Female,1780,Sales,1,3,3,1,4284,4284
+Female,1787,Sales,5,3,3,5,4788,4788
+Female,1789,Delivery,24,3,3,2,5906,5906
+Female,1790,Employee relations,15,3,3,12,3886,3886
+Female,1792,Research,6,2,3,5,16823,16823
+Female,1794,Performance Management,19,2,3,10,2933,2933
+Female,1797,Sales,10,3,3,10,6500,6500
+Female,1798,Research,14,3,3,10,17174,17174
+Female,1799,Research,5,4,3,5,5033,5033
+Female,1800,Delivery,9,3,4,4,2307,2307
+Male,1801,Sales,6,3,3,2,2587,2587
+Male,1803,Employee relations,10,2,3,0,5507,5507
+Male,1804,Sales,15,3,3,7,4393,4393
+Male,1805,Performance Management,13,3,3,11,13348,13348
+Male,1807,Content Writing,11,2,3,7,6583,6583
+Male,1809,Sales,10,1,3,10,8103,8103
+Male,1812,Sales,7,3,3,2,3978,3978
+Male,1813,Research,7,2,3,3,2544,2544
+Male,1814,Employee relations,11,1,3,3,5399,5399
+Male,1823,Sales,10,3,4,10,5487,5487
+Male,1824,Workforce Management,37,2,4,16,6834,6834
+Male,1826,Content Writing,6,4,3,5,1091,1091
+Male,1836,Sales,5,3,3,5,5736,5736
+Male,1837,Delivery,23,3,3,2,2226,2226
+Male,1842,Performance Management,2,3,3,1,5747,5747
+Male,1844,Performance Management,4,3,3,2,9854,9854
+Male,1849,Sales,7,3,4,7,5467,5467
+Male,1852,Content Writing,11,4,3,11,5380,5380
+Male,1853,Sales,4,4,3,0,5151,5151
+Male,1854,Research,10,2,4,6,2133,2133
+Male,1857,Sales,12,2,3,9,17875,17875
+Male,1858,Performance Management,3,3,3,3,2432,2432
+Male,1859,Employee relations,11,3,3,7,4771,4771
+Male,1860,Content Writing,8,3,3,0,19161,19161
+Male,1862,Sales,7,2,3,2,5087,5087
+Male,1865,Performance Management,1,3,3,1,2863,2863
+Male,1867,Delivery,29,3,3,22,5561,5561
+Male,1868,Research,1,2,4,1,2144,2144
+Male,1871,Research,7,3,3,2,3065,3065
+Male,1873,Research,19,4,4,5,2810,2810
+Male,1876,Sales,1,2,3,1,9888,9888
+Male,1878,Research,1,3,4,1,8628,8628
+Male,1881,Content Writing,10,3,3,10,2867,2867
+Male,1882,Sales,9,3,3,5,5373,5373
+Male,1883,Content Writing,11,3,3,3,6667,6667
+Male,1885,Research,16,3,4,5,5003,5003
+Male,1890,Performance Management,10,2,4,10,2367,2367
+Male,1892,Workforce Management,22,3,3,19,2858,2858
+Male,1903,Employee relations,10,3,3,2,5204,5204
+Male,1905,Research,5,3,4,5,4105,4105
+Male,1907,Content Writing,5,3,3,4,9679,9679
+Male,1908,Sales,12,1,3,4,5617,5617
+Male,1911,Delivery,18,4,3,13,10448,10448
+Male,1918,Content Writing,8,3,3,7,2897,2897
+Male,1922,Employee relations,12,3,3,4,5968,5968
+Male,1924,Sales,10,2,3,10,7510,7510
+Male,1927,Sales,7,3,3,7,2991,2991
+Male,1928,Sales,1,3,3,1,19636,19636
+Male,1931,Research,6,2,3,5,1129,1129
+Male,1932,Research,16,3,3,15,13341,13341
+Male,1934,Research,16,4,3,8,4332,4332
+Male,1936,Sales,10,3,4,10,11031,11031
+Male,1940,Research,10,4,3,5,4440,4440
+Male,1941,Delivery,28,3,3,5,4617,4617
+Male,1943,Sales,14,3,3,0,2647,2647
+Male,1945,Sales,6,1,3,5,6323,6323
+Male,1947,Research,5,2,3,5,5677,5677
+Male,1948,Research,4,4,3,4,2187,2187
+Male,1949,Content Writing,5,3,4,5,3748,3748
+Male,1950,Sales,14,2,4,14,3977,3977
+Male,1951,Sales,9,2,3,8,8633,8633
+Male,1952,Content Writing,8,2,3,7,2008,2008
+Male,1954,Employee relations,6,2,3,5,4440,4440
+Male,1956,Research,10,3,4,10,3067,3067
+Male,1960,Content Writing,6,2,3,4,5321,5321
+Male,1961,Sales,20,2,3,1,5410,5410
+Male,1965,Sales,7,3,3,7,2782,2782
+Male,1966,Sales,8,3,4,1,11957,11957
+Male,1967,Sales,10,3,3,10,2660,2660
+Male,1968,Sales,15,2,3,2,3375,3375
+Male,1970,Employee relations,9,3,4,9,5098,5098
+Male,1971,Employee relations,10,3,3,10,4878,4878
+Male,1972,Performance Management,7,3,3,6,2837,2837
+Male,1973,Workforce Management,35,3,3,10,2406,2406
+Male,1975,Sales,21,3,3,20,2269,2269
+Male,1976,Research,20,3,3,20,4108,4108
+Male,1981,Employee relations,4,2,3,4,13206,13206
+Male,1982,Content Writing,5,4,3,5,10422,10422
+Male,1989,Content Writing,12,2,3,12,13744,13744
+Male,1992,Content Writing,7,2,3,2,4907,4907
+Male,1993,Employee relations,25,3,4,17,3482,3482
+Male,1994,Content Writing,1,2,3,1,2436,2436
+Male,1995,Sales,16,3,3,15,2380,2380
+Male,1996,Sales,3,3,3,2,19431,19431
+Male,1997,Sales,10,3,3,8,1790,1790
+Male,1998,Research,9,2,3,4,7644,7644
+Male,1999,Research,12,3,4,5,5131,5131
+Male,2003,Content Writing,5,3,3,2,6306,6306
+Male,2007,Research,4,4,3,3,4787,4787
+Male,2008,Research,10,3,3,10,18880,18880
+Male,2012,Content Writing,8,2,3,1,2339,2339
+Male,2013,Sales,3,3,3,2,13570,13570
+Male,2014,Research,18,3,3,7,6712,6712
+Male,2019,Sales,16,2,3,9,5406,5406
+Male,2020,Research,6,3,1,4,8938,8938
+Male,2021,Sales,2,3,3,2,2439,2439
+Male,2022,Workforce Management,21,2,3,6,8837,8837
+Male,2023,Sales,1,2,2,1,5343,5343
+Male,2026,Employee relations,13,2,4,13,6728,6728
+Male,2027,Research,4,4,3,2,6652,6652
+Male,2031,Workforce Management,24,2,3,22,4850,4850
+Male,2032,Content Writing,14,1,3,10,2809,2809
+Male,2036,Sales,15,2,4,15,5689,5689
+Male,2037,Sales,14,3,3,5,2001,2001
+Male,2038,Research,4,3,3,4,2977,2977
+Male,2044,Sales,12,3,3,6,4025,4025
+Male,2048,Research,8,3,3,2,3785,3785
+Male,2049,Employee relations,10,4,3,10,10854,10854
+Male,2053,Content Writing,10,3,3,4,12031,12031
+Male,2055,Sales,20,3,3,3,9936,9936
+Male,2057,Sales,10,3,3,9,2966,2966
+Male,2061,Content Writing,17,3,3,5,2571,2571
+Male,2062,Employee relations,9,3,3,7,9991,9991
+Male,2064,Sales,6,3,4,6,6142,6142
+Male,2065,Sales,17,2,3,9,5390,5390
+Male,2068,Content Writing,6,4,3,4,4404,4404
