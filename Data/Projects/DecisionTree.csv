@@ -1,0 +1,15 @@
+,Outllook,Temp,Humidity,Windy,Play
+D1,sunny,hot,high,FALSE,no
+D2,sunny,hot,high,TRUE,no
+D3,overcast,hot,high,FALSE,yes
+D4,rainy,mild,high,FALSE,yes
+D5,rainy,cool,normal,FALSE,yes
+D6,rainy,cool,normal,TRUE,no
+D7,overcast,cool,normal,TRUE,yes
+D8,sunny,mild,high,FALSE,no
+D9,sunny,cool,normal,FALSE,yes
+D10,rainy,mild,normal,FALSE,yes
+D11,sunny,mild,normal,TRUE,yes
+D12,overcast,mild,high,TRUE,yes
+D13,overcast,hot,normal,FALSE,yes
+D14,rainy,mild,high,TRUE,no
